@@ -8,7 +8,7 @@ const About = () => {
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+          <p className="text-4xl font-bold inline mb-5 border-b-4 border-gray-500">
             About
           </p>
         </div>
@@ -16,15 +16,13 @@ const About = () => {
         Hi, I’m Claudia Kyase, a Software developer with a passion for security,
          design, and technology. With expertise in front-end development, 
         i specialize in creating dynamic, user-friendly web applications 
-         using HTML, CSS, JavaScript, and frameworks like React, transforming ideas into responsive,
+         using HTML/CSS, JavaScript and frameworks like React, transforming ideas into responsive,
           interactive digital experiences. With a keen eye for detail, 
           I excel in solving complex problems, from designing sleek user 
           interfaces to optimizing performance for seamless user experiences.
         </p>
-        
         <br />
-
-        <p className="text-xl">
+       <p className="text-xl">
         My approach ensures that everything aligns with the brand’s 
         vision while delivering efficient and accessible solutions.
          Driven by a love for continuous learning, I stay curious about
